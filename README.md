@@ -12,4 +12,4 @@ and include upper case, lower case, numeric, and symbols in the password.
 -Ludie Lambright V
 
 [My password-generator](https://veidul.github.io/password-generator/)
-![Deployed screenshot](./Assets/images/deployed.png)
+![Deployed screenshot](./assets/images/deployed.png)
